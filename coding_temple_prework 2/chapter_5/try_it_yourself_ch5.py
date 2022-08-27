@@ -73,3 +73,9 @@ print('my prediction is false')
 print(car > "subaru")   #car is not greater than subaru it == subaru
 print('my prediction is false')
 print(car == "subaru" and car =="audi") #car cannot == somthing else and itsef
+
+banned_users = ["Brandon","Jason","Hilary"]
+user = "Andy"
+for banned in banned_users:
+    if user != "Andy"
+    print()

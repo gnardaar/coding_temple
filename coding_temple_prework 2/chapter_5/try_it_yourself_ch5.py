@@ -48,3 +48,28 @@ elif fav_fruit == "peaches":
 else:
     print("you got it its apples")
     print("I really like apples!!")
+    
+car = "subaru"
+#true
+print('my prediction is true')
+print(car == "subaru")
+print('my prediction is true')
+print(car >= "subaru")
+print('my prediction is true')
+print(car != "audi")
+print('my prediction is true')
+print(car == "Subaru".lower())
+print('my prediction is true')
+print(car == "subaru" and car == "Subaru".lower())
+
+#false
+print('my prediction is false')
+print(car <= "Subaru" )
+print('my prediction is false')
+print(car == "audi")
+print('my prediction is false')
+print(car != "subaru")
+print('my prediction is false')
+print(car > "subaru")
+print('my prediction is false')
+print(car == "subaru" and car =="audi")

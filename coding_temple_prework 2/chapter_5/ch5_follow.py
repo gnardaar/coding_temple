@@ -45,3 +45,12 @@ for height in diff_heights:
         print("cool dude whatever!")
     else:
         print("kick rocks!")
+
+requested_topping = 'mushrooms'
+if requested_topping != 'anchovies': 
+    print("Hold the anchovies!")
+age = 44
+if age >= 16 and age>= 21:
+    print('you are a teen!')
+else:
+    print('you are very old')

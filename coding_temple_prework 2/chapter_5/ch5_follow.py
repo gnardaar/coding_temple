@@ -50,7 +50,10 @@ requested_topping = 'mushrooms'
 if requested_topping != 'anchovies': 
     print("Hold the anchovies!")
 age = 44
-if age >= 16 and age>= 21:
+if age == 16 or age>= 21:
     print('you are a teen!')
 else:
     print('you are very old')
+
+
+user_names = ["Jeff","Josh","joey"]

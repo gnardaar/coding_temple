@@ -34,3 +34,4 @@ while True:
         print("invallid option...")
         
         #imagine a video game open world and you just got done talking to the merchant and you used an escape sentace...
+       
